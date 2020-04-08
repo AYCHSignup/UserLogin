@@ -116,7 +116,7 @@
     <dependency>
       <groupId>com.rabbitmq</groupId>
       <artifactId>amqp-client</artifactId>
-      <version>3.2.0</version>
+      <version>4.8.0</version>
     </dependency>
     <!-- to decrypt secret data -->
     <dependency>
